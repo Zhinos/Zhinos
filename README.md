@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zhinos
 - 👀 I’m interested in Web development / Networking
-- 🌱 I’m currently learning HTML, CSS, SaSS, JavaScript, PHP , SQL , Laravel, Angular, Node.j
+- 🌱 I’m currently learning HTML, CSS, SaSS, JavaScript, PHP , SQL , Laravel, Angular, Node.js
 
 <!---
 Zhinos/Zhinos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
